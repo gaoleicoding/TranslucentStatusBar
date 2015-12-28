@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TranslucentStatusBar</string>
+    <string name="message">消息</string>
+    <string name="translucent_statusbar">4.4及以上透明状态栏，兼容及5.0以上</string>
+</resources>
